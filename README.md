@@ -1,1 +1,2 @@
-# Tic-Tac-Toe-
+# Tic-Tac-Toe-Project 
+A Tic Tac Toe program in C++ typically runs by executing the compiled code. The program initializes the game board, takes user input for moves, and checks for a win or a draw after each move. It continues until there's a winner or the board is full. The program uses loops, conditionals, and functions to manage the game flow. You compile the C++ code using a compiler like g++, and then run the generated executable file to play the game.
